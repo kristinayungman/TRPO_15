@@ -1,0 +1,318 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E2\u0421\u0435\u043C\\Pr15_Shop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\\u043F\u044031\u0433\u0430\u0440\u0438\u0435\u0432\\\u0442\u0440\u043F\u043E2\u0441\u0435\u043C\\pr15_shop\\pr15_shop\\pages\\managerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|solutionrelative:pr15_shop\\pages\\managerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\\u043F\u044031\u0433\u0430\u0440\u0438\u0435\u0432\\\u0442\u0440\u043F\u043E2\u0441\u0435\u043C\\pr15_shop\\pr15_shop\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|solutionrelative:pr15_shop\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\\u043F\u044031\u0433\u0430\u0440\u0438\u0435\u0432\\\u0442\u0440\u043F\u043E2\u0441\u0435\u043C\\pr15_shop\\pr15_shop\\pages\\addproductpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|solutionrelative:pr15_shop\\pages\\addproductpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\\u043F\u044031\u0433\u0430\u0440\u0438\u0435\u0432\\\u0442\u0440\u043F\u043E2\u0441\u0435\u043C\\pr15_shop\\pr15_shop\\pages\\addproductpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|solutionrelative:pr15_shop\\pages\\addproductpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\\u043F\u044031\u0433\u0430\u0440\u0438\u0435\u0432\\\u0442\u0440\u043F\u043E2\u0441\u0435\u043C\\pr15_shop\\pr15_shop\\pages\\kattegbrands.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|solutionrelative:pr15_shop\\pages\\kattegbrands.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\\u043F\u044031\u0433\u0430\u0440\u0438\u0435\u0432\\\u0442\u0440\u043F\u043E2\u0441\u0435\u043C\\pr15_shop\\pr15_shop\\pages\\kattegbrands.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|solutionrelative:pr15_shop\\pages\\kattegbrands.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\\u043F\u044031\u0433\u0430\u0440\u0438\u0435\u0432\\\u0442\u0440\u043F\u043E2\u0441\u0435\u043C\\pr15_shop\\pr15_shop\\models\\pr15shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|solutionrelative:pr15_shop\\models\\pr15shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\\u043F\u044031\u0433\u0430\u0440\u0438\u0435\u0432\\\u0442\u0440\u043F\u043E2\u0441\u0435\u043C\\pr15_shop\\pr15_shop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|solutionrelative:pr15_shop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\\u043F\u044031\u0433\u0430\u0440\u0438\u0435\u0432\\\u0442\u0440\u043F\u043E2\u0441\u0435\u043C\\pr15_shop\\pr15_shop\\models\\producttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|solutionrelative:pr15_shop\\models\\producttag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\\u043F\u044031\u0433\u0430\u0440\u0438\u0435\u0432\\\u0442\u0440\u043F\u043E2\u0441\u0435\u043C\\pr15_shop\\pr15_shop\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|solutionrelative:pr15_shop\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\\u043F\u044031\u0433\u0430\u0440\u0438\u0435\u0432\\\u0442\u0440\u043F\u043E2\u0441\u0435\u043C\\pr15_shop\\pr15_shop\\service\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|solutionrelative:pr15_shop\\service\\dbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\\u043F\u044031\u0433\u0430\u0440\u0438\u0435\u0432\\\u0442\u0440\u043F\u043E2\u0441\u0435\u043C\\pr15_shop\\pr15_shop\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|solutionrelative:pr15_shop\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\\u043F\u044031\u0433\u0430\u0440\u0438\u0435\u0432\\\u0442\u0440\u043F\u043E2\u0441\u0435\u043C\\pr15_shop\\pr15_shop\\pages\\vhod.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|solutionrelative:pr15_shop\\pages\\vhod.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\\u043F\u044031\u0433\u0430\u0440\u0438\u0435\u0432\\\u0442\u0440\u043F\u043E2\u0441\u0435\u043C\\pr15_shop\\pr15_shop\\pages\\vhod.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|solutionrelative:pr15_shop\\pages\\vhod.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\\u043F\u044031\u0433\u0430\u0440\u0438\u0435\u0432\\\u0442\u0440\u043F\u043E2\u0441\u0435\u043C\\pr15_shop\\pr15_shop\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|solutionrelative:pr15_shop\\pages\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\\u043F\u044031\u0433\u0430\u0440\u0438\u0435\u0432\\\u0442\u0440\u043F\u043E2\u0441\u0435\u043C\\pr15_shop\\pr15_shop\\pages\\managerpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|solutionrelative:pr15_shop\\pages\\managerpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\\u043F\u044031\u0433\u0430\u0440\u0438\u0435\u0432\\\u0442\u0440\u043F\u043E2\u0441\u0435\u043C\\pr15_shop\\pr15_shop\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|solutionrelative:pr15_shop\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|c:\\\u043F\u044031\u0433\u0430\u0440\u0438\u0435\u0432\\\u0442\u0440\u043F\u043E2\u0441\u0435\u043C\\pr15_shop\\pr15_shop\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F7A4B65-F8E9-47A3-ADA6-983ED62B7E12}|Pr15_Shop\\Pr15_Shop.csproj|solutionrelative:pr15_shop\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DBService.cs",
+              "DocumentMoniker": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E2\u0421\u0435\u043C\\Pr15_Shop\\Pr15_Shop\\Service\\DBService.cs",
+              "RelativeDocumentMoniker": "Pr15_Shop\\Service\\DBService.cs",
+              "ToolTip": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E2\u0421\u0435\u043C\\Pr15_Shop\\Pr15_Shop\\Service\\DBService.cs",
+              "RelativeToolTip": "Pr15_Shop\\Service\\DBService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T15:30:15.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E2\u0421\u0435\u043C\\Pr15_Shop\\Pr15_Shop\\App.xaml",
+              "RelativeDocumentMoniker": "Pr15_Shop\\App.xaml",
+              "ToolTip": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E2\u0421\u0435\u043C\\Pr15_Shop\\Pr15_Shop\\App.xaml",
+              "RelativeToolTip": "Pr15_Shop\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-21T08:46:22.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddProductPage.xaml",
+              "DocumentMoniker": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E2\u0421\u0435\u043C\\Pr15_Shop\\Pr15_Shop\\Pages\\AddProductPage.xaml",
+              "RelativeDocumentMoniker": "Pr15_Shop\\Pages\\AddProductPage.xaml",
+              "ToolTip": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E2\u0421\u0435\u043C\\Pr15_Shop\\Pr15_Shop\\Pages\\AddProductPage.xaml",
+              "RelativeToolTip": "Pr15_Shop\\Pages\\AddProductPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-22T13:45:25.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KatTegBrands.xaml.cs",
+              "DocumentMoniker": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E2\u0421\u0435\u043C\\Pr15_Shop\\Pr15_Shop\\Pages\\KatTegBrands.xaml.cs",
+              "RelativeDocumentMoniker": "Pr15_Shop\\Pages\\KatTegBrands.xaml.cs",
+              "ToolTip": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E2\u0421\u0435\u043C\\Pr15_Shop\\Pr15_Shop\\Pages\\KatTegBrands.xaml.cs",
+              "RelativeToolTip": "Pr15_Shop\\Pages\\KatTegBrands.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T08:04:12.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pr15ShopContext.cs",
+              "DocumentMoniker": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E2\u0421\u0435\u043C\\Pr15_Shop\\Pr15_Shop\\Models\\Pr15ShopContext.cs",
+              "RelativeDocumentMoniker": "Pr15_Shop\\Models\\Pr15ShopContext.cs",
+              "ToolTip": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E2\u0421\u0435\u043C\\Pr15_Shop\\Pr15_Shop\\Models\\Pr15ShopContext.cs",
+              "RelativeToolTip": "Pr15_Shop\\Models\\Pr15ShopContext.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAIwAUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T15:44:52.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManagerPage.xaml",
+              "DocumentMoniker": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E2\u0421\u0435\u043C\\Pr15_Shop\\Pr15_Shop\\Pages\\ManagerPage.xaml",
+              "RelativeDocumentMoniker": "Pr15_Shop\\Pages\\ManagerPage.xaml",
+              "ToolTip": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E2\u0421\u0435\u043C\\Pr15_Shop\\Pr15_Shop\\Pages\\ManagerPage.xaml",
+              "RelativeToolTip": "Pr15_Shop\\Pages\\ManagerPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-22T13:24:58.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddProductPage.xaml.cs",
+              "DocumentMoniker": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E2\u0421\u0435\u043C\\Pr15_Shop\\Pr15_Shop\\Pages\\AddProductPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pr15_Shop\\Pages\\AddProductPage.xaml.cs",
+              "ToolTip": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E2\u0421\u0435\u043C\\Pr15_Shop\\Pr15_Shop\\Pages\\AddProductPage.xaml.cs",
+              "RelativeToolTip": "Pr15_Shop\\Pages\\AddProductPage.xaml.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAuwGcAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T16:11:20.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "KatTegBrands.xaml",
+              "DocumentMoniker": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E2\u0421\u0435\u043C\\Pr15_Shop\\Pr15_Shop\\Pages\\KatTegBrands.xaml",
+              "RelativeDocumentMoniker": "Pr15_Shop\\Pages\\KatTegBrands.xaml",
+              "ToolTip": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E2\u0421\u0435\u043C\\Pr15_Shop\\Pr15_Shop\\Pages\\KatTegBrands.xaml",
+              "RelativeToolTip": "Pr15_Shop\\Pages\\KatTegBrands.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-22T13:45:58.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E2\u0421\u0435\u043C\\Pr15_Shop\\Pr15_Shop\\Pages\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Pr15_Shop\\Pages\\MainPage.xaml",
+              "ToolTip": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E2\u0421\u0435\u043C\\Pr15_Shop\\Pr15_Shop\\Pages\\MainPage.xaml",
+              "RelativeToolTip": "Pr15_Shop\\Pages\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-22T05:46:37.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductTag.cs",
+              "DocumentMoniker": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E2\u0421\u0435\u043C\\Pr15_Shop\\Pr15_Shop\\Models\\ProductTag.cs",
+              "RelativeDocumentMoniker": "Pr15_Shop\\Models\\ProductTag.cs",
+              "ToolTip": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E2\u0421\u0435\u043C\\Pr15_Shop\\Pr15_Shop\\Models\\ProductTag.cs",
+              "RelativeToolTip": "Pr15_Shop\\Models\\ProductTag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T16:04:25.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E2\u0421\u0435\u043C\\Pr15_Shop\\Pr15_Shop\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Pr15_Shop\\Models\\Product.cs",
+              "ToolTip": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E2\u0421\u0435\u043C\\Pr15_Shop\\Pr15_Shop\\Models\\Product.cs",
+              "RelativeToolTip": "Pr15_Shop\\Models\\Product.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T15:32:32.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E2\u0421\u0435\u043C\\Pr15_Shop\\Pr15_Shop\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "Pr15_Shop\\Models\\Tag.cs",
+              "ToolTip": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E2\u0421\u0435\u043C\\Pr15_Shop\\Pr15_Shop\\Models\\Tag.cs",
+              "RelativeToolTip": "Pr15_Shop\\Models\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T07:32:02.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Vhod.xaml.cs",
+              "DocumentMoniker": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E2\u0421\u0435\u043C\\Pr15_Shop\\Pr15_Shop\\Pages\\Vhod.xaml.cs",
+              "RelativeDocumentMoniker": "Pr15_Shop\\Pages\\Vhod.xaml.cs",
+              "ToolTip": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E2\u0421\u0435\u043C\\Pr15_Shop\\Pr15_Shop\\Pages\\Vhod.xaml.cs",
+              "RelativeToolTip": "Pr15_Shop\\Pages\\Vhod.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAxwCMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T13:40:28.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ManagerPage.xaml.cs",
+              "DocumentMoniker": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E2\u0421\u0435\u043C\\Pr15_Shop\\Pr15_Shop\\Pages\\ManagerPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pr15_Shop\\Pages\\ManagerPage.xaml.cs",
+              "ToolTip": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E2\u0421\u0435\u043C\\Pr15_Shop\\Pr15_Shop\\Pages\\ManagerPage.xaml.cs",
+              "RelativeToolTip": "Pr15_Shop\\Pages\\ManagerPage.xaml.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAowEoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T13:25:44.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Vhod.xaml",
+              "DocumentMoniker": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E2\u0421\u0435\u043C\\Pr15_Shop\\Pr15_Shop\\Pages\\Vhod.xaml",
+              "RelativeDocumentMoniker": "Pr15_Shop\\Pages\\Vhod.xaml",
+              "ToolTip": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E2\u0421\u0435\u043C\\Pr15_Shop\\Pr15_Shop\\Pages\\Vhod.xaml",
+              "RelativeToolTip": "Pr15_Shop\\Pages\\Vhod.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-24T08:13:43.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E2\u0421\u0435\u043C\\Pr15_Shop\\Pr15_Shop\\Pages\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pr15_Shop\\Pages\\MainPage.xaml.cs",
+              "ToolTip": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E2\u0421\u0435\u043C\\Pr15_Shop\\Pr15_Shop\\Pages\\MainPage.xaml.cs",
+              "RelativeToolTip": "Pr15_Shop\\Pages\\MainPage.xaml.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAADwv0oAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T05:46:39.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E2\u0421\u0435\u043C\\Pr15_Shop\\Pr15_Shop\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "Pr15_Shop\\Models\\Brand.cs",
+              "ToolTip": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E2\u0421\u0435\u043C\\Pr15_Shop\\Pr15_Shop\\Models\\Brand.cs",
+              "RelativeToolTip": "Pr15_Shop\\Models\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T07:30:40.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E2\u0421\u0435\u043C\\Pr15_Shop\\Pr15_Shop\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Pr15_Shop\\Models\\Category.cs",
+              "ToolTip": "C:\\\u043F\u044031\u0413\u0430\u0440\u0438\u0435\u0432\\\u0422\u0420\u041F\u041E2\u0421\u0435\u043C\\Pr15_Shop\\Pr15_Shop\\Models\\Category.cs",
+              "RelativeToolTip": "Pr15_Shop\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T07:31:51.077Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
